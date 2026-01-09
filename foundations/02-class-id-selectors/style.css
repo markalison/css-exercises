@@ -1,0 +1,19 @@
+.cool_class, .cooler_class {
+    background-color: lightcoral;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cooler_class {
+    font-size: 30px;
+}
+
+#id_one {
+    color: blue;
+    font-size: 35px;
+}
+
+#id_two {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 30px;
+}
